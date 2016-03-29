@@ -1,0 +1,25 @@
+{
+  "name": "urlshortener-freecodecamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b37t1td/urlshortener-freecodecamp.git"
+  },
+  "author": "Svetlana Linuxenko <linuxenko@yahoo.com> (http://www.linuxenko.pro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b37t1td/urlshortener-freecodecamp/issues"
+  },
+  "homepage": "https://github.com/b37t1td/urlshortener-freecodecamp#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.11",
+    "node-env-file": "^0.1.8"
+  }
+}
